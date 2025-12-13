@@ -40,3 +40,5 @@ terraform.tfstate
 terraform-provider-archestra
 .terraform.lock.hcl
 *.tfvars
+config.bat
+node_modules
